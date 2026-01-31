@@ -34,7 +34,7 @@ News/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -89,7 +89,7 @@ For continuous hourly execution, set up a task scheduler (Windows Task Scheduler
 
 ---
 
-## 📊 Output Schema
+## Output Schema
 
 Each news entry in `indian_news_data.json` includes:
 
