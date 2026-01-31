@@ -1,0 +1,11 @@
+requests
+google-generativeai
+python-dotenv
+schedule
+transformers
+accelerate
+beautifulsoup4
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+yt-dlp
