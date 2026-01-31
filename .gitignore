@@ -1,0 +1,81 @@
+# =============================================
+# Python
+# =============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =============================================
+# Virtual Environments
+# =============================================
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# =============================================
+# Secrets & Credentials (CRITICAL)
+# =============================================
+credentials.json
+credentials2.json
+token.json
+*.pem
+*.key
+secrets.yaml
+secrets.json
+
+# =============================================
+# Data Files (User-specific runtime data)
+# =============================================
+data/
+
+# =============================================
+# Temporary & Download Files
+# =============================================
+downloads/
+tmp/
+temp/
+*.tmp
+*.log
+
+# =============================================
+# IDE / Editor
+# =============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# =============================================
+# OS Generated
+# =============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =============================================
+# Jupyter Notebooks
+# =============================================
+.ipynb_checkpoints/
